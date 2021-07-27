@@ -1,5 +1,4 @@
-# Excel-_Homework
-Repository containing Excel Homework
+# Excel - Kickstarter Campaign Analysis
 
 # Excel Homework.xlsx
 This file contains a data table containing statistics on Kickstarter campaigns  
